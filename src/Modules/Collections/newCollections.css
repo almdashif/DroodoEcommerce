@@ -1,0 +1,65 @@
+#NewCollection{
+    padding: 4rem 1rem;
+}
+#NewCollection .collectionContainer{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+#NewCollection .collectionContainer .collectionHeading{
+    text-align: center;
+}
+#NewCollection .collectionContainer .collectionHeading h2{
+    font-size: 1.6rem;
+    color: var(--a-text-color);
+    padding-bottom: .5rem;
+    text-transform: uppercase;
+}
+#NewCollection .collectionContainer .collectionHeading p{
+    font-size: .8rem;
+    color: var(--a-text-color);
+    max-width: 80%;
+    margin: 0 auto;
+}
+#NewCollection .collectionContainer .collectionItems{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    gap: 1rem;
+}
+#NewCollection .collectionContainer .collectionItems .collectionItem .collectionItemTitles{
+    padding: 0 .2rem;
+}
+#NewCollection .collectionContainer .collectionItems .collectionItem{
+
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    border-radius: 10px;
+    background-color: rgb(248, 248, 248);
+    /* border: 1px solid black; */
+}
+#NewCollection .collectionContainer .collectionItems .collectionItem .collectionImageContainer{
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#NewCollection .collectionContainer .collectionItems .collectionItem .collectionImageContainer img{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    object-position: center;
+}
+#NewCollection .collectionContainer .collectionItems .collectionItem .collectionItemTitles h5{
+    font-size: .9rem;
+    color: var(--a-text-color);
+}
+#NewCollection .collectionContainer .collectionItems .collectionItem .collectionItemTitles span{
+    font-size: .7rem;
+    color: var(--a-text-color);
+}
+
