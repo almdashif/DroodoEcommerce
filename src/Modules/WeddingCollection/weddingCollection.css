@@ -1,0 +1,63 @@
+#WeddingCollection {
+    padding: 4rem 1rem 4rem;
+}
+
+#WeddingCollection .weddingColContainer {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    text-align: center;
+}
+
+#WeddingCollection .weddingColContainer .WedImgContainer {
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#WeddingCollection .weddingColContainer .WedImgContainer img {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    object-position: center;
+}
+
+#WeddingCollection .weddingColContainer .wedTitles {
+    padding: 0 0 1rem 0;
+}
+
+#WeddingCollection .weddingColContainer .wedTitles h3 {
+    font-size: 1.6rem;
+    color: var(--a-text-color);
+    padding-bottom: .5rem;
+    text-transform: uppercase;
+}
+
+#WeddingCollection .weddingColContainer .wedTitles p {
+    font-size: .8rem;
+    color: var(--a-text-color);
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+#WeddingCollection .weddingColContainer .wedTitles a {
+    background-color: var(--a-Bghover-text-color);
+    color: var(--a-hover-text-color);
+    display: inline-block;
+    padding: 6px 1.5rem;
+    border-radius: 2rem;
+    font-size: .7rem;
+    margin-top: .8rem;
+    transition: all .3s ease;
+}
+
+#WeddingCollection .weddingColContainer .wedTitles a:hover {
+    color: var(--a-Bghover-text-color);
+    background-color: var(--a-hover-text-color);
+
+}
