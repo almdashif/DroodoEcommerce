@@ -11,7 +11,7 @@ const NewCollections = () => {
                 <div className="collectionItems">
                     <div className="collectionItem">
                         <div className="collectionImageContainer">
-                            <img src="https://imgs.search.brave.com/xBdbfWe4ngdLiEcGV_Q54o5xrwAdPd-yiWdp4wklxZI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/NzE5NDUxNTMyMzct/NDkyOWU3ODNhZjRh/P2ZtPWpwZyZ3PTMw/MDAmYXV0bz1mb3Jt/YXQmZml0PWNyb3Am/cT02MCZpeGxpYj1y/Yi00LjAuMyZpeGlk/PU0zd3hNakEzZkRC/OE1IeHpaV0Z5WTJo/OE1UVjhmSFFsTWpC/emFHbHlkSHhsYm53/d2ZId3dmSHg4TUE9/PQ.jpeg" alt="shirt Image" />
+                            <img src="https://imgs.search.brave.com/4fFGm2uDP3h7rpkirwP6DVFuXTQeSfEj_pH-s48BfNg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzA4L2Rh/LzYzLzA4ZGE2M2Fk/ZTRiM2U5ZjEwMTdl/NzRjYWRiMDdkZDA2/LmpwZw" alt="shirt Image" />
                         </div>
                         <div className="collectionItemTitles">
                             <h5>Loro Piana</h5>
@@ -21,7 +21,7 @@ const NewCollections = () => {
                     </div>
                     <div className="collectionItem">
                         <div className="collectionImageContainer">
-                            <img src="https://imgs.search.brave.com/FCJkdOgf_ANFxn8qF0SnB60jqxhEoysbG-oLSrcr_CE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA0LzE2LzA0LzI0/LzM2MF9GXzQxNjA0/MjQ2Nl9CWDhVbDJi/UG94S2c2bVQ3Qkll/UVdaSjdKaG5VZDg5/Zi5qcGc" alt="shirt Image" />
+                            <img src="https://imgs.search.brave.com/D-LD3kR_c7vdI2FuZPqpNk8kFyqK81Ymy06Gva-AxsE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzMyLzAx/LzY2LzMyMDE2Njhh/NzRmN2VmMTZlNGE0/NzEzNWYzNjQxZDBh/LmpwZw" alt="shirt Image" />
                         </div>
                         <div className="collectionItemTitles">
                             <h5>Loro Piana</h5>
@@ -31,7 +31,7 @@ const NewCollections = () => {
                     </div>
                     <div className="collectionItem">
                         <div className="collectionImageContainer">
-                            <img src="https://imgs.search.brave.com/UcnOmADKiWpUl2h7Z4YIlZqJlLF1w7h-wQxD7NczyKw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzMxMTg4NTIyL2Mv/NTAwLzUwMC8wLzAv/aWwvYzM3NGRjLzQz/NTA5MDg2MDkvaWxf/NjAweDYwMC40MzUw/OTA4NjA5X3JpaDMu/anBn" alt="shirt Image" />
+                            <img src="https://imgs.search.brave.com/qg2nGHFmmthoS-ByQsaqOLKIi71NmEGMM1VQB34ThjU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2IyL2Jl/LzgwL2IyYmU4MDY4/MDY4YjYxZTgyMWRi/ZTI5OGVjZDNiYTQz/LmpwZw" alt="shirt Image" />
                         </div>
                         <div className="collectionItemTitles">
                             <h5>Loro Piana</h5>
@@ -41,7 +41,7 @@ const NewCollections = () => {
                     </div>
                     <div className="collectionItem">
                         <div className="collectionImageContainer">
-                            <img src="https://imgs.search.brave.com/uFy1q4IzqLoDFeZXoa8mQgNTJwHnIXO6kdCZvE5E564/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzI2NDk4NzQwL2Mv/MTQ0MC8xNDQwLzAv/NDEyL2lsLzNlNzU0/YS8zMTM2OTIzNzA2/L2lsXzYwMHg2MDAu/MzEzNjkyMzcwNl82/OG0yLmpwZw" alt="shirt Image" />
+                            <img src="https://imgs.search.brave.com/o1eITyiGipe1LdGUze8Nc4LBiYtShScfEk36v8morhc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzMxLzBh/L2IxLzMxMGFiMWQz/NjY5M2E4ZWE1MDlj/ZTY3ZGY5NGZkZWQ2/LmpwZw" alt="shirt Image" />
                         </div>
                         <div className="collectionItemTitles">
                             <h5>Loro Piana</h5>
@@ -61,7 +61,7 @@ const NewCollections = () => {
                     </div>
                     <div className="collectionItem">
                         <div className="collectionImageContainer">
-                            <img src="https://imgs.search.brave.com/NZszZyVa0ZG1WOIsWzw-NFK1IZ3oFR5wgD2A3zpvdVE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by93aGl0ZS10c2hp/cnRzLXBob3RvZ3Jh/cGh5LWdyYXktYmFj/a2dyb3VuZC13aXRo/LWNvcHktc3BhY2Vf/MTM2NTU4LTgxMzg3/LmpwZz9zaXplPTYy/NiZleHQ9anBn" alt="shirt Image" />
+                            <img src="https://imgs.search.brave.com/eUYT4xH-zq8xqoP-MuH7KPo1Ti4mJ6Ypwx9IWsnIhOE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzk3LzM1/L2M5Lzk3MzVjOWUw/MGJlZWI2MmJiYmYx/NDA1YjRmNGMxOTcy/LmpwZw" alt="shirt Image" />
                         </div>
                         <div className="collectionItemTitles">
                             <h5>Loro Piana</h5>
