@@ -1,0 +1,126 @@
+#Navbar{
+    padding: 10px 1rem;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    z-index: 999;
+}
+#Navbar .navContainer{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#Navbar .navContainer .hamburger{
+    font-size: 1.3rem;
+    font-weight: 600;
+    cursor: pointer;
+    display: none;
+}
+#Navbar .navContainer ul{
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+}
+#Navbar .navContainer ul li a:hover{
+color: #000;
+font-weight: 500;
+}
+#Navbar .navContainer h2{
+    /* width: 40%; */
+    text-align: left;
+    padding-right: 5rem;
+    /* background-color: aqua; */
+    font-size: 2rem;
+    /* transform: scale(1.8, 1); */
+}
+#Navbar .navContainer .navIcons{
+    display: flex;
+    align-items: center;
+    font-size: .9rem;
+    gap: .5rem;
+    color: #000;
+}
+#Navbar .navContainer .navIcons a{
+    color: #000;
+    transition: all .3s ease;
+}
+#Navbar .navContainer .navIcons a:hover{
+    color: #000;
+    font-weight: 500;
+}
+
+
+#Offer {
+    padding: 8px 1rem;
+    background-color: #000;
+}
+
+#Offer .offerContainer {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+#Offer .offerContainer p{
+    font-size: .7rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #ffeeee;
+}
+#Offer .offerContainer span{
+    font-size: .7rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #fff;
+    padding-left: 8px;
+
+}
+
+@media screen and (max-width:600px) {
+    #Navbar .navContainer .hamburger{
+        display: block;
+    }
+    #Navbar .navContainer ul{
+        display: none;
+    }
+    #Navbar .navContainer h2{
+        font-size: 1.4rem;
+    }
+    #Navbar .navContainer h2{
+        padding-left: 5rem;
+    }
+    #Offer .offerContainer p{
+        font-size: .6rem;
+    }
+    #Offer .offerContainer span{
+        font-size: .6rem;
+    
+    }
+}
+@media screen and (min-width:600px ) and (max-width:760px) {
+    #Navbar .navContainer .hamburger{
+        display: block;
+    }
+    #Navbar .navContainer ul{
+        display: none;
+    }
+    #Navbar .navContainer h2{
+        font-size: 1.8rem;
+    }
+    #Navbar .navContainer h2{
+        padding-left: 8rem;
+    }
+}
+@media screen and (min-width:760px){
+    #Navbar .navContainer h2{
+        padding-right: 7rem;
+
+    }
+}

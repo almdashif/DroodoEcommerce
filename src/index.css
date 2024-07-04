@@ -7,7 +7,31 @@
   --a-Bghover-text-color: #363636;
   --a-fontSize: .8rem;
 }
+html{
+  scroll-behavior: smooth;
+}
+body {
+  overflow: auto;
+}
 
+::-webkit-scrollbar {
+  display: none;
+}
+
+::-moz-scrollbar {
+  display: none;
+}
+
+::-ms-scrollbar {
+  display: none;
+}
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
 *,body{
   margin: 0;
   padding: 0;
